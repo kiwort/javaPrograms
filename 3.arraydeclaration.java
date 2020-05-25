@@ -2,6 +2,7 @@ public class Mango {
 	public static void  main(String[] args) {
 		//declaring array
 		int[] array = {1,2,3};
+		//double [] scores = new double [N];
 		//int[] array1 = new int[5];
 		//int[] array2 = new int[] {1,2,3};
 		
