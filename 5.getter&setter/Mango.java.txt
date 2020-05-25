@@ -1,0 +1,11 @@
+package javaBegining;
+
+public class Mango {
+	public static void  main(String[] args) {
+		  Student kishan = new Student();
+		  kishan.setId(1);
+		  kishan.setName("kishan");
+		  System.out.println(kishan.getId()+" "+ kishan.getName());
+		}
+	}
+
